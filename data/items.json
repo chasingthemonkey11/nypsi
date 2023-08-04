@@ -441,7 +441,7 @@
   },
   "gun": {
     "id": "gun",
-    "name": "gun",
+    "name": "gun","glock",
     "article": "a",
     "plural": "guns",
     "emoji": "🔫",
